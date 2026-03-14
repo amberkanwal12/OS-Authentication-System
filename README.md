@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/home.png" width="650" alt="OS Authentication System Banner"/>
+<img src="screenshots/home.jpeg" width="650" alt="OS Authentication System Banner"/>
 
 # 🔐 OS Authentication System v3.1
 ### A Production-Level Secure Login & File Permission Desktop Application
@@ -147,15 +147,15 @@ python main.py
     <td align="center"><b>Create Account</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/home.png" width="350"/></td>
-    <td><img src="screenshots/register.png" width="350"/></td>
+    <td><img src="screenshots/login.jpeg" width="350"/></td>
+    <td><img src="screenshots/register.jpeg" width="350"/></td>
   </tr>
   <tr>
     <td align="center"><b>Email Verification</b></td>
     <td align="center"><b>2FA — Verify Identity</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/verify.png" width="350"/></td>
+    <td><img src="screenshots/verifyemail.jpeg" width="350"/></td>
     <td><img src="screenshots/2fa.png" width="350"/></td>
   </tr>
   <tr>
@@ -163,32 +163,32 @@ python main.py
     <td align="center"><b>Forgot Password</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/lockout.png" width="350"/></td>
-    <td><img src="screenshots/forgot.png" width="350"/></td>
+    <td><img src="screenshots/lockout.jpeg" width="350"/></td>
+    <td><img src="screenshots/forgot.jpeg" width="350"/></td>
   </tr>
   <tr>
     <td align="center"><b>Admin Dashboard</b></td>
     <td align="center"><b>System Audit Logs</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/dashboard.png" width="350"/></td>
-    <td><img src="screenshots/audit.png" width="350"/></td>
+    <td><img src="screenshots/overview.jpeg" width="350"/></td>
+    <td><img src="screenshots/AL.jpeg" width="350"/></td>
   </tr>
   <tr>
     <td align="center"><b>File Manager</b></td>
     <td align="center"><b>User Management</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/files.png" width="350"/></td>
-    <td><img src="screenshots/users.png" width="350"/></td>
+    <td><img src="screenshots/files.jpeg" width="350"/></td>
+    <td><img src="screenshots/users.jpeg" width="350"/></td>
   </tr>
   <tr>
     <td align="center"><b>Profile & 2FA Settings</b></td>
     <td align="center"><b>Create Admin</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/settings.png" width="350"/></td>
-    <td><img src="screenshots/create_admin.png" width="350"/></td>
+    <td><img src="screenshots/setting.jpeg" width="350"/></td>
+    <td><img src="screenshots/CA.jpeg" width="350"/></td>
   </tr>
 </table>
 
