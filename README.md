@@ -151,7 +151,7 @@ python main.py
      <td><img src="screenshots/verifyemail.jpeg" width="350"/></td>
   </tr>
   <tr>
-    <td align="center"><b>OTP Verification</b></td>
+    <td align="center"><b>TOTP Verification</b></td>
     <td align="center"><b>2FA — Verify Identity</b></td>
   </tr>
   <tr>
@@ -164,7 +164,7 @@ python main.py
   </tr>
   <tr>
     <td><img src="screenshots/lockout.jpeg" width="350"/></td>
-    <td><img src="screenshots/forgot.jpeg" width="350"/></td>
+    <td><img src="screenshots/forget.jpeg" width="350"/></td>
   </tr>
   <tr>
     <td align="center"><b>Admin Dashboard</b></td>
