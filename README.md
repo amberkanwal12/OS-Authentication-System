@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/home.jpeg" width="650" alt="OS Authentication System Banner"/>
+<img src="screenshots/register.jpeg" width="650" alt="OS Authentication System Banner"/>
 
 # 🔐 OS Authentication System v3.1
 ### A Production-Level Secure Login & File Permission Desktop Application
@@ -143,19 +143,19 @@ python main.py
 
 <table>
   <tr>
-    <td align="center"><b>Portal Selection</b></td>
     <td align="center"><b>Create Account</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/login.jpeg" width="350"/></td>
-    <td><img src="screenshots/register.jpeg" width="350"/></td>
-  </tr>
-  <tr>
     <td align="center"><b>Email Verification</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/register.jpeg" width="350"/></td>
+     <td><img src="screenshots/verifyemail.jpeg" width="350"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>OTP Verification</b></td>
     <td align="center"><b>2FA — Verify Identity</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/verifyemail.jpeg" width="350"/></td>
+    <td><img src="screenshots/totp.png" width="350"/></td>
     <td><img src="screenshots/2fa.png" width="350"/></td>
   </tr>
   <tr>
@@ -183,12 +183,20 @@ python main.py
     <td><img src="screenshots/users.jpeg" width="350"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Profile & 2FA Settings</b></td>
+    <td align="center"><b>Profile</b></td>
     <td align="center"><b>Create Admin</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/setting.jpeg" width="350"/></td>
+    <td><img src="screenshots/AP.jpeg" width="350"/></td>
     <td><img src="screenshots/CA.jpeg" width="350"/></td>
+  </tr>
+    <tr>
+    <td align="center"><b>Change Password</b></td>
+    <td align="center"><b>Permissions</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/CP.jpeg" width="350"/></td>
+    <td><img src="screenshots/pd.jpeg" width="350"/></td>
   </tr>
 </table>
 
